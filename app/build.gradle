@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.login8_11'
+    namespace 'com.example.loginjava1'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.login8_11"
+        applicationId "com.example.loginjava1"
         minSdk 21
         targetSdk 32
         versionCode 1

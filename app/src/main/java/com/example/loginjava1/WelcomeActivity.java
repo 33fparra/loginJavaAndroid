@@ -1,8 +1,8 @@
-package com.example.login8_11;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.example.loginjava1;
 
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class WelcomeActivity extends AppCompatActivity {
 
